@@ -1,20 +1,100 @@
- # Weslley Dorta 👨‍💻
+# Weslley Dorta 👨‍💻
 
-Salve! Eu sou Weslley Dorta, um Analista de TI e estudante de Engenharia da Computação apaixonado por tecnologia.
-    
+Fala! Eu sou o Weslley Dorta, atuo com **Infraestrutura de TI, Redes e Automação** em ambiente corporativo/industrial, e sou **formado em Engenharia da Computação**.
 
-## Conecte-se comigo
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/weslley-dorta-168420180/)           [![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:weslley_dorta@hotmail.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeslleyDorta) [![Perfil DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://www.dio.me/users/weslleydorta)
+Hoje trabalho liderando e executando soluções de infraestrutura, garantindo estabilidade, segurança e evolução contínua dos ambientes.
 
-Sinta-se à vontade para entrar em contato comigo ou explorar meus projetos e contribuições no GitHub.
+Tenho foco em:
+- 🔧 Infraestrutura e redes corporativas
+- ⚙️ Automação de processos em TI
+- 📊 Monitoramento e observabilidade
+- ☁️ Ambientes híbridos (on-premise + cloud)
+- 🚀 Melhoria contínua e otimização de ambientes
 
-## Tecnologias
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+---
 
-Estas são algumas das tecnologias com as quais trabalho e estou sempre buscando aprender mais.
+## 🚀 Conecte-se comigo
 
-## Status
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/weslley-dorta-168420180/) 
+[![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:weslley_dorta@hotmail.com) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeslleyDorta) 
+[![Perfil DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge)](https://www.dio.me/users/weslleydorta)
+
+---
+
+## 🧠 Tecnologias & Ferramentas
+
+### 🔹 Infraestrutura & Redes
+![Windows Server](https://img.shields.io/badge/Windows%20Server-000?style=for-the-badge&logo=windowsserver)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-000?style=for-the-badge&logo=windows)
+![DNS](https://img.shields.io/badge/DNS-000?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-000?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-000?style=for-the-badge)
+![STP](https://img.shields.io/badge/STP-000?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco)
+
+---
+
+### 🔹 Automação & Scripts
+![PowerShell](https://img.shields.io/badge/PowerShell-000?style=for-the-badge&logo=powershell)
+![Batch](https://img.shields.io/badge/Batch-000?style=for-the-badge)
+![Task Scheduler](https://img.shields.io/badge/Task%20Scheduler-000?style=for-the-badge)
+
+---
+
+### 🔹 DevOps & Containers
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-000?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu)
+
+---
+
+### 🔹 Monitoramento & Observabilidade
+![Zabbix](https://img.shields.io/badge/Zabbix-000?style=for-the-badge)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-000?style=for-the-badge)
+![Logs](https://img.shields.io/badge/Logs%20Analysis-000?style=for-the-badge)
+
+---
+
+### 🔹 Cloud & Serviços
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-000?style=for-the-badge&logo=oracle)
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-000?style=for-the-badge&logo=microsoft)
+
+---
+
+### 🔹 Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🔹 Desenvolvimento (em evolução 🚀)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+---
+
+## 📊 Projetos e Interesses
+
+- 🔹 Automação de rotinas de TI (backup, limpeza, provisionamento)
+- 🔹 Monitoramento de infraestrutura (Zabbix / Uptime Kuma)
+- 🔹 BI com Apache Superset
+- 🔹 Ambientes com Docker em produção
+- 🔹 Integração entre sistemas e melhoria de processos
+
+---
+
+## 📈 Status
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weslleydorta&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_border=true)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=weslleydorta&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-Obrigado por visitar o meu perfil! 😊🚀
+---
+
+💡 Sempre buscando evoluir, aprender novas tecnologias e melhorar ambientes de TI com eficiência e organização.
+
+🚀 Obrigado por visitar meu perfil!
