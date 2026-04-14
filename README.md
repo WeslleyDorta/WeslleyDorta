@@ -2,14 +2,14 @@
 
 Fala! Eu sou o Weslley Dorta, atuo com **Infraestrutura de TI, Redes e Automação** em ambiente corporativo/industrial, e sou **formado em Engenharia da Computação**.
 
-Hoje trabalho liderando e executando soluções de infraestrutura, garantindo estabilidade, segurança e evolução contínua dos ambientes.
+Atualmente lidero e executo soluções de infraestrutura, garantindo **alta disponibilidade, segurança e evolução contínua dos ambientes**.
 
 Tenho foco em:
 - 🔧 Infraestrutura e redes corporativas
 - ⚙️ Automação de processos em TI
 - 📊 Monitoramento e observabilidade
 - ☁️ Ambientes híbridos (on-premise + cloud)
-- 🚀 Melhoria contínua e otimização de ambientes
+- 🚀 Otimização e melhoria contínua de ambientes
 
 ---
 
@@ -26,11 +26,13 @@ Tenho foco em:
 
 ### 🔹 Infraestrutura & Redes
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-000?style=for-the-badge&logo=windowsserver)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-000?style=for-the-badge&logo=windows)
 ![DNS](https://img.shields.io/badge/DNS-000?style=for-the-badge)
 ![DHCP](https://img.shields.io/badge/DHCP-000?style=for-the-badge)
 ![VLAN](https://img.shields.io/badge/VLAN-000?style=for-the-badge)
 ![STP](https://img.shields.io/badge/STP-000?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-000?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco)
 
 ---
@@ -45,19 +47,17 @@ Tenho foco em:
 ### 🔹 DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu)
 
 ---
 
 ### 🔹 Monitoramento & Observabilidade
 ![Zabbix](https://img.shields.io/badge/Zabbix-000?style=for-the-badge)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-000?style=for-the-badge)
-![Logs](https://img.shields.io/badge/Logs%20Analysis-000?style=for-the-badge)
 
 ---
 
 ### 🔹 Cloud & Serviços
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-000?style=for-the-badge&logo=oracle)
 ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-000?style=for-the-badge&logo=microsoft)
@@ -70,20 +70,13 @@ Tenho foco em:
 
 ---
 
-### 🔹 Desenvolvimento (em evolução 🚀)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
----
-
 ## 📊 Projetos e Interesses
 
 - 🔹 Automação de rotinas de TI (backup, limpeza, provisionamento)
 - 🔹 Monitoramento de infraestrutura (Zabbix / Uptime Kuma)
-- 🔹 BI com Apache Superset
-- 🔹 Ambientes com Docker em produção
+- 🔹 Ambientes Docker em produção
 - 🔹 Integração entre sistemas e melhoria de processos
+- 🔹 Infraestrutura híbrida e cloud
 
 ---
 
@@ -95,6 +88,6 @@ Tenho foco em:
 
 ---
 
-💡 Sempre buscando evoluir, aprender novas tecnologias e melhorar ambientes de TI com eficiência e organização.
+💡 Sempre evoluindo, buscando novas tecnologias e aprimorando ambientes de TI com eficiência e organização.
 
 🚀 Obrigado por visitar meu perfil!
