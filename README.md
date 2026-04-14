@@ -1,6 +1,6 @@
  # Weslley Dorta 👨‍💻
 
-Olá! Eu sou Weslley Dorta, um Analista de TI e estudante de Engenharia da Computação apaixonado por tecnologia. Bem-vindo ao meu perfil!
+Salve! Eu sou Weslley Dorta, um Analista de TI e estudante de Engenharia da Computação apaixonado por tecnologia.
     
 
 ## Conecte-se comigo
