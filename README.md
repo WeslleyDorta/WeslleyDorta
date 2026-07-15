@@ -2,7 +2,7 @@
 
 Fala! Eu sou o Weslley Dorta, atuo com **Infraestrutura de TI, Redes e Automação** em ambiente corporativo/industrial, e sou **formado em Engenharia da Computação**.
 
-Atualmente lidero e executo soluções de infraestrutura, garantindo **alta disponibilidade, segurança e evolução contínua dos ambientes**.
+Atualmente executo soluções de infraestrutura, garantindo **alta disponibilidade, segurança e evolução contínua dos ambientes**.
 
 Tenho foco em:
 - 🔧 Infraestrutura e redes corporativas
